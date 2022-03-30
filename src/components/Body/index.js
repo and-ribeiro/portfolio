@@ -4,7 +4,7 @@ export default function Body(){
     return(
         <div className='container'>
             <div className='title'>
-                <h1>Fullstack Developer student creating ugly and useless websites while trying to get a job</h1>
+                <h1>Fullstack Developer student creating ugly and useless websites while trying to get a job.</h1>
             </div>
                 
             <div className='paragraph'>
